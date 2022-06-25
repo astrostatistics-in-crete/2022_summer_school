@@ -1,7 +1,7 @@
-# 2022 Summer School for AstroStatistics in Crete
+# 2022 Summer School for Astrostatistics in Crete
 
 Notebooks from the teaching sessions and the workshops of the
-[2022 Summer School for AstroStatistics in Crete](
+[2022 Summer School for Astrostatistics in Crete](
 https://astro.physics.uoc.gr/Conferences/Astrostatistics_School_Crete_2022)
 
 ## Getting Started
