@@ -1,4 +1,4 @@
-# Project Title
+# 2022 Summer School for AstroStatistics in Crete
 
 Notebooks from the teaching sessions and the workshops of the
 [2022 Summer School for Astrostatistics in Crete](
