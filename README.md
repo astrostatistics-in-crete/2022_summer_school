@@ -52,7 +52,7 @@ jupyter-notebook <notebook_name>.ipynb &
 ```
 ## Authors
 
-* **Andrew, Jeff** - Northwestern University
+* **Andrews, Jeff** - Northwestern University
 
 * **Bonfini, Paolo** - Ballista Technologies
 
@@ -67,7 +67,7 @@ under the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/3.
 licence.
 
 The notebooks have adopted publicly available material from
-several sources, most notably [AstroML](http://www.astroml.org).
+several sources that are properly credited. 
 All the references to published papers, data, and software tools are
 properly addressed within each notebook.
 
