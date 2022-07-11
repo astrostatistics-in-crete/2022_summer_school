@@ -2,7 +2,10 @@ Deep_Learning/data
 ML_Practices/data
 ML_Practices/plot_PC.py
 Deep_Learning/Deep_Learning_W_working.ipynb
-Deep_Learning/*.xcf
+Deep_Learning/images/*.xcf
+Deep_Learning/images/*.ppt
+ML_Practices/images/*.xcf
+ML_Practices/images/*.ppt
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
